@@ -150,4 +150,8 @@
         <item>25</item>
     </integer-array>
 
+    <integer name="config_multiuserMaximumUsers">8</integer>
+
+    <bool name="config_enableLockScreenRotation">true</bool>
+
 </resources>
